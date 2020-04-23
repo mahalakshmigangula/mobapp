@@ -1,0 +1,7 @@
+{
+  "name": "ReelTheMemories",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
